@@ -1,6 +1,5 @@
-# Flutter Developer GitHub Profile Template
 
-## 👋 Hi, I'm [Your Name]!
+## 👋 Hi, I'm [Bilal Fali]!
 
 I am a **Flutter Developer** passionate about building beautiful and functional cross-platform applications. I specialize in developing mobile and web apps using Flutter and Firebase.
 
